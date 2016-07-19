@@ -1,0 +1,9 @@
+name: MortgageCalculatorShinyDocumentation
+account: patternplot
+server: shinyapps.io
+bundleId: 507727
+url:
+        https://patternplot.shinyapps.io/MortgageCalculatorShinyDocumentation/
+when: 1468820109.02415
+asMultiple: FALSE
+asStatic: FALSE
